@@ -1,0 +1,13 @@
+State Machine Description
+
+IDLE
+System waiting for activity.
+
+MOTION DETECTED
+Motion detected by PIR sensor.
+
+USER_NEAR
+Object detected by IR sensor.
+
+DARK_ACTIVITY
+User interaction detected in low light.
